@@ -26,3 +26,5 @@ local change
 stashed from repo and updated from remote repo
 local change
 >>>>>>> Stashed changes
+
+secound remote repo update after git stash pop
