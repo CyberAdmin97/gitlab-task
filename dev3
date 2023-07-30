@@ -28,3 +28,4 @@ local change
 >>>>>>> Stashed changes
 
 secound remote repo update after git stash pop
+update before git stash --filename
